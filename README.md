@@ -5,6 +5,7 @@
 The Olympic Games, a symbol of global unity and cultural exchange, have grown into the premier international sporting event. Our project aims to uncover patterns and trends that define this evolution by leveraging interactive visualizations built in Tableau.
 
 **Research Questions**:
+
 I. **Gender-Based Analysis**
 How does gender representation vary across different sports and countries?
 What trends in female participation have emerged over time?
